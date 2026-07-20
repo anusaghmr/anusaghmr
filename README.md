@@ -1,4 +1,4 @@
-# <div align="center">A N U S H A  G H I M I R E</div>
+# <div align="center">A N U S H A </div>
 
 <div align="center">
 
