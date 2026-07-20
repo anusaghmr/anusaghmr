@@ -16,29 +16,10 @@
 
 # Welcome
 
-The best stories aren't watched.
-
-They're built.
-
-I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence student from **Nepal 🇳🇵** creating products powered by **AI, LLMs and modern web technologies**.
-
-I enjoy transforming ideas into real software through thoughtful design, intelligent systems and continuous learning.
+I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergraduate from **Nepal** creating products powered by **LLMs**.
 
 ---
 
-# About Me
-
-```text
-Name          :: Anusha Ghimire
-Location      :: Nepal 🇳🇵
-Role          :: CS with Artificial Intelligence Student
-Mission       :: Build products that people genuinely enjoy using.
-Current Mode  :: Learning • Building • Experimenting
-```
-
-> *Every repository is another scene in the story I'm building.*
-
----
 
 # Current Focus
 
@@ -46,7 +27,6 @@ Current Mode  :: Learning • Building • Experimenting
 - Exploring Large Language Models
 - Learning MERN Stack
 - Improving React & Flutter
-- Experimenting with FastAPI
 - Participating in Hackathons
 - Building something almost every week
 
@@ -194,21 +174,6 @@ Current Mode  :: Learning • Building • Experimenting
 
 ---
 
-### ◇ Project Six
-
-**Description**
-
-> Replace with your project description.
-
-**Technology**
-
-`FastAPI` • `PostgreSQL`
-
-**Repository**
-
-`https://github.com/anusaghmr/project-six`
-
----
 
 # GitHub Analytics
 
@@ -241,23 +206,16 @@ Current Mode  :: Learning • Building • Experimenting
 ---
 
 # Contribution Snake
-
-> Replace after generating your snake animation.
-
-```text
-🐍 contribution-snake.svg
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anusaghmr/anusaghmr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
 # 3D Contribution Calendar
-
-> Replace after generating your 3D contribution graph.
-
-```text
-3d-contrib-profile-night.svg
-```
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anusaghmr/anusaghmr/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</p>
 ---
 
 # Hackathons
