@@ -205,38 +205,6 @@ I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergra
 
 ---
 
-# Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anusaghmr/anusaghmr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-# 3D Contribution Calendar
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anusaghmr/anusaghmr/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</p>
----
-
-# Hackathons
-
-- Participated in **4 Hackathons**
-- 100% Scholarship at **Sunway College**
-- Public Speaker
-- Movie Lover
-- Building something almost every week
-
----
-
-# Fun Facts
-
-- 🎬 Movie Lover
-- 💡 Hackathon Enthusiast
-- 🎤 Public Speaker
-- 🚀 Building something almost every week
-- 🤖 Turning ideas into reality using AI
-
----
 
 # Currently Learning
 
@@ -256,7 +224,7 @@ I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergra
 
 # Quote
 
-> **"Great software is directed like great cinema—every scene has purpose, every frame has precision, and the audience only remembers the experience."**
+> **"Great software is directed like great cinema every scene has purpose, every frame has precision, and the audience only remembers the experience."**
 
 ---
 
@@ -273,6 +241,7 @@ Outside of programming you'll probably find me:
 - Learning emerging technologies
 - Designing product ideas
 - Preparing for the next hackathon
+- Building something almost every week
 
 </details>
 
@@ -289,14 +258,6 @@ Outside of programming you'll probably find me:
 
 </p>
 
----
 
-<div align="center">
-
-### *The next commit is always the beginning of another story.*
-
-<br>
-
-**Thanks for visiting.**
 
 </div>
