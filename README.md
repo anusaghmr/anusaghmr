@@ -31,7 +31,17 @@ I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergra
 
 ---
 
+
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,html,css,react,nextjs,flutter,tailwind,bootstrap,nodejs,flask,fastapi,django,express,firebase,mysql,postgres,mongodb,git,github,figma,arduino,raspberrypi,postman,vercel,wordpress&perline=10"/>
+</p>
+
+
 # Tech Stack
+
 
 ### Languages
 
@@ -50,11 +60,11 @@ I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergra
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-Learning-111111?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs)
-![Flutter](https://img.shields.io/badge/Flutter-Learning-111111?style=flat&logo=flutter)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat&logo=flutter)
+![Express](https://img.shields.io/badge/Express-111111?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb)
+![Postman](https://img.shields.io/badge/Postman-111111?style=flat&logo=postman)
 
 ### Backend
 
@@ -62,14 +72,14 @@ I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergra
 ![Flask](https://img.shields.io/badge/Flask-111111?style=flat&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-111111?style=flat&logo=django)
-![Express](https://img.shields.io/badge/Express-Learning-111111?style=flat&logo=express)
+![Express](https://img.shields.io/badge/Express-111111?style=flat&logo=express)
 
 ### Database
 
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat&logo=firebase)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-Learning-111111?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb)
 
 ---
 
@@ -84,92 +94,8 @@ I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergra
 ![WordPress](https://img.shields.io/badge/WordPress-111111?style=flat&logo=wordpress)
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-111111?style=flat&logo=raspberrypi)
-![Postman](https://img.shields.io/badge/Postman-Learning-111111?style=flat&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-111111?style=flat&logo=postman)
 ![LaTeX](https://img.shields.io/badge/LaTeX-111111?style=flat&logo=latex)
-
----
-
-# Featured Projects
-
-> *The projects below are placeholders.*
-
-### ◇ Project One
-
-**Description**
-
-> Replace with your project description.
-
-**Technology**
-
-`Python` • `FastAPI` • `LLMs`
-
-**Repository**
-
-`https://github.com/anusaghmr/project-one`
-
----
-
-### ◇ Project Two
-
-**Description**
-
-> Replace with your project description.
-
-**Technology**
-
-`Next.js` • `Firebase`
-
-**Repository**
-
-`https://github.com/anusaghmr/project-two`
-
----
-
-### ◇ Project Three
-
-**Description**
-
-> Replace with your project description.
-
-**Technology**
-
-`Flutter` • `AI`
-
-**Repository**
-
-`https://github.com/anusaghmr/project-three`
-
----
-
-### ◇ Project Four
-
-**Description**
-
-> Replace with your project description.
-
-**Technology**
-
-`Python` • `OpenCV`
-
-**Repository**
-
-`https://github.com/anusaghmr/project-four`
-
----
-
-### ◇ Project Five
-
-**Description**
-
-> Replace with your project description.
-
-**Technology**
-
-`React` • `Node.js`
-
-**Repository**
-
-`https://github.com/anusaghmr/project-five`
 
 ---
 
@@ -249,12 +175,10 @@ Outside of programming you'll probably find me:
 # Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/anusaghmr">LinkedIn</a> •
-<a href="https://www.anushaghimire.com.np">Portfolio</a> •
-<a href="https://medium.com/@anusaghmr">Medium</a> •
-<a href="mailto:heyyanusha@gmail.com">Email</a>
-
+<a href="https://www.linkedin.com/in/anusaghmr"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.anushaghimire.com.np"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
+<a href="https://medium.com/@anusaghmr"><img src="https://skillicons.dev/icons?i=medium"/></a>
+<a href="mailto:heyyanusha@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 
