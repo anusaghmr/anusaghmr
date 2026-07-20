@@ -1,8 +1,7 @@
-# <div align="center">ANUSHA GHIMIRE</div>
+# <div align="center">A N U S H A  G H I M I R E</div>
 
 <div align="center">
 
-### *Building ideas into reality.*
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+cool+stuff+powered+by+AI.;Computer+Science+with+Artificial+Intelligence." alt="Typing SVG" />
 
