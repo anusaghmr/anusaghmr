@@ -4,7 +4,7 @@
 
 ### *Building ideas into reality.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+cool+stuff+powered+by+AI.;Computer+Science+with+Artificial+Intelligence.;LLMs+%E2%80%A2+AI+%E2%80%A2+Modern+Web.;Turning+ideas+into+reality." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+cool+stuff+powered+by+AI.;Computer+Science+with+Artificial+Intelligence." alt="Typing SVG" />
 
 <br>
 
