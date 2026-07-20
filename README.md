@@ -167,24 +167,9 @@ Outside of programming you'll probably find me:
 # Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anusaghmr">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.anushaghimire.com.np">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://medium.com/@anusaghmr">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:heyyanusha@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/anusaghmr"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.anushaghimire.com.np"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
+<a href="mailto:heyyanusha@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 
