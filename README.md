@@ -140,12 +140,6 @@ I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergra
 
 ---
 
-# Quote
-
-> **"Great software is directed like great cinema every scene has purpose, every frame has precision, and the audience only remembers the experience."**
-
----
-
 <details>
 
 <summary><b>Beyond Code</b></summary>
