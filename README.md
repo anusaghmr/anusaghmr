@@ -15,7 +15,7 @@
 
 # Welcome
 
-I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergraduate from **Nepal** creating products powered by **LLMs**.
+I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergraduate creating products powered by **LLMs**.
 
 ---
 
