@@ -15,7 +15,8 @@
 
 # Welcome
 
-Hi! There 🫡... I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergraduate creating products powered by **LLMs**.
+Hi! There 🫡
+I'm **Anusha Ghimire**, a Computer Science with Artificial Intelligence undergraduate creating products powered by **LLMs**.
 
 ---
 
